@@ -12,3 +12,6 @@ wmic bios get serialnumber
 http://www.speedtest.net/my-result/5096096799
 
 http://www.speedtest.net/result/5096096799.png
+
+
+// test1
