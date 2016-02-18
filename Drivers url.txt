@@ -1,0 +1,14 @@
+http://www.dell.com/support/home/us/en/19/product-support/servicetag/76j0kv1/drivers/advanced
+
+
+service tag
+76j0kv1
+
+To view the service tag of the local computer from the command line, open the command prompt and type:
+wmic bios get serialnumber
+
+
+
+http://www.speedtest.net/my-result/5096096799
+
+http://www.speedtest.net/result/5096096799.png
