@@ -15,6 +15,7 @@ http://www.speedtest.net/result/5096096799.png
 
 
 
+
 // test1
 
 //test2 
@@ -29,3 +30,8 @@ i am in new direction
 //going to stage this files a temporary one
 
 // on the merged branch 
+
+// I am on a new branch now
+
+// just making some changes on new-init-branch
+
